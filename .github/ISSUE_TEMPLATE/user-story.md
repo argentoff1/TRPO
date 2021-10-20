@@ -2,8 +2,8 @@
 name: User Story
 about: Template Letuchka
 title: ''
-labels: ''
-assignees: ''
+labels: User Story
+assignees: argentoff1
 
 ---
 
